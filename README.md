@@ -8,7 +8,7 @@ Files:
 
 - All Data Files can be found in the links given in the final report
 
-- All Code Files can be in this repository in the Code folder
+- All Code Files can be in this repository 
 
 Looking forward to your feedbacks! :)
 
